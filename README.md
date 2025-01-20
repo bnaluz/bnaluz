@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [count-me-inv](https://count-me-inventory.vercel.app/)
 
-- 🌱 I’m currently learning **AWS and cloud computing**
-
 - 👯 I’m looking to collaborate on **cool projects that help people**
 
 - 👨‍💻 All of my projects are available at [https://bobbynaluz.com/](https://bobbynaluz.com/)
