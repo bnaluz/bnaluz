@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnaluz&label=Profile%20views&color=0e75b6&style=flat" alt="bnaluz" /> </p>
 
-
+- 💬 Current work github account @bnaluzz 
 
 - 🔭 I’m currently working on [count-me-inv](https://count-me-inventory.vercel.app/)
 
